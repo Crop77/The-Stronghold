@@ -51,3 +51,15 @@ Players place and upgrade units on tiles, manage their gold economy, and survive
 - Git & GitHub
 
 ## 📸 Screenshots
+
+Main Menu
+![Main Menu](StrongHoldScreenshots/StrongholdSS1.png)
+
+Building & Placement
+![Building&Placement](StrongHoldScreenshots/StrongholdSS2.png)
+
+Units behaviours (attacking to enemies according to their range)
+![Combat](StrongHoldScreenshots/StrongholdSS3.png)
+
+Enemy Behaviour (Attacking after they clear your units)
+![Enemy](StrongHoldScreenshots/StrongholdSS4.png)
