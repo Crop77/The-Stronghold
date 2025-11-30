@@ -1,9 +1,6 @@
+### 🏰 Stronghold Defense
 
----
 
-### 🏰 `Stronghold Defense` – `README.md`
-
-```md
 # 🏰 Stronghold Defense
 
 Genre: Strategy • Tower Defense / Auto Battler Hybrid  
@@ -12,7 +9,7 @@ Role: Solo Designer & Developer
 
 ## 🎯 Overview
 
-Stronghold Defense is a strategy game that mixes **tower defense**, **auto battler**, and **resource management**.  
+Stronghold Defense is a strategy game that mixes tower defense, auto battler, and resource management.  
 Players place and upgrade units on tiles, manage their gold economy, and survive increasingly difficult waves of enemies.
 
 ## ⚙️ Core Systems
@@ -31,21 +28,21 @@ Players place and upgrade units on tiles, manage their gold economy, and survive
   - Upgrades significantly change stats and impact tactical decisions
 
 -Economy & game loop
-  - Core loop: **Survive waves → Earn gold → Buy/upgrade units**
+  - Core loop: Survive waves → Earn gold → Buy/upgrade units
   - Higher difficulty rewards more gold but requires better planning
   - Player choices in spending vs saving matter for long-term survival
 
 -Config-driven wave design
   - Levels and waves defined via configuration / lists
-  - New waves can be added by **inserting prefabs and setting stats**
-  - Supports **endless levels** by expanding the config
+  - New waves can be added by inserting prefabs and setting stats
+  - Supports endless levels by expanding the config
 
 ## 🧩 Design Responsibilities
 
 - Designed and implemented:
   - Unit AI and combat logic
   - Tile placement system
-  - Gold-based **economy and upgrade loop**
+  - Gold-based economy and upgrade loop
   - Wave configuration for scalable difficulty
 - Balanced multiple levels to keep the difficulty curve fair but challenging
 
