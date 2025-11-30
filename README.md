@@ -61,5 +61,5 @@ Building & Placement
 Units behaviours (attacking to enemies according to their range)
 ![Combat](StrongHoldScreenshots/StrongholdSS3.png)
 
-Enemy Behaviour (Attacking after they clear your units)
+Enemy Behaviour (Attacking Stronghold after they clear your units)
 ![Enemy](StrongHoldScreenshots/StrongholdSS4.png)
