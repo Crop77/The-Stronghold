@@ -1,6 +1,3 @@
-### 🏰 Stronghold Defense
-
-
 # 🏰 Stronghold Defense
 
 Genre: Strategy • Tower Defense / Auto Battler Hybrid  
