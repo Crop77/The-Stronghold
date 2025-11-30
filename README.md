@@ -1,4 +1,4 @@
-# 🏰 Stronghold Defense
+# 🏰 The Stronghold
 
 Genre: Strategy • Tower Defense / Auto Battler Hybrid  
 Engine: Unity  
@@ -6,7 +6,7 @@ Role: Solo Designer & Developer
 
 ## 🎯 Overview
 
-Stronghold Defense is a strategy game that mixes tower defense, auto battler, and resource management.  
+The Stronghold is a strategy game that mixes tower defense, auto battler, and resource management.  
 Players place and upgrade units on tiles, manage their gold economy, and survive increasingly difficult waves of enemies.
 
 ## ⚙️ Core Systems
